@@ -1,0 +1,20 @@
+Sample usage of the Section class:
+
+            Quiz1    Quiz2    Quiz3    Quiz4    Quiz5
+ Student1    29.87    49.45     44.3    83.19    58.33 
+ Student2     2.51    70.92    26.55    26.36    15.03 
+ Student3    68.38    81.66     33.6    89.08    19.81 
+ Student4     3.06    87.76    72.74    54.08    13.14 
+ Student5    41.36    77.87    58.39    18.26     82.6 
+ Student6    10.54    28.35     6.55     5.64    76.54 
+ Student7     1.17    61.19    33.18    55.96    33.54 
+ Student8    41.11     7.68     85.3    43.99    12.19 
+
+Measuring the performance of insertion function:
+
+        Inserting 10000 members took 1025 clock ticks (0.001025 seconds)!
+        Inserting 40000 members took 3642 clock ticks (0.003642 seconds)!
+
+Testing studentAverage(...), error case:
+
+        Error case (student index does not exist) of studentAverage() passed!

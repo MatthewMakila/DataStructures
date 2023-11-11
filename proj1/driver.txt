@@ -1,0 +1,35 @@
+Carrying Alice from 6th floor to 10th floor:
+        Alice enters the elevator:
+Top Floor 10 ()
+9 ()
+8 ()
+7 ()
+6 (Alice)
+5 ()
+4 ()
+3 ()
+2 ()
+Ground Floor 1 ()
+
+        Moving to 10th floor:
+Top Floor 10 (Alice)
+9 ()
+8 ()
+7 ()
+6 ()
+5 ()
+4 ()
+3 ()
+2 ()
+Ground Floor 1 ()
+
+        Removing the 2nd floor:
+Top Floor 10 ()
+9 ()
+8 ()
+7 ()
+6 ()
+5 ()
+4 ()
+3 ()
+Ground Floor 1 ()
